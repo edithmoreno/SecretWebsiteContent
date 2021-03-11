@@ -90,7 +90,7 @@ Enabling more open and more usable gaming experiences.
 
 </template>
 
-<next-button tag="Read the FAQ" to="#frequently-asked-questions">
+<next-button tag="Read the FAQ" to="about/about-secret-network#frequently-asked-questions">
 
 </next-button>
 
@@ -178,7 +178,7 @@ The work is verified as correct, and payment is released to the secret node that
 
 </card-holder>
 
-<slim-column>
+<slim-column id="frequently-asked-questions">
 
 ## Frequently Asked Questions
 
